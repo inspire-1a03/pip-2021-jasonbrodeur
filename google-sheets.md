@@ -36,7 +36,7 @@ This figure shows.....
 
 <!-- Paste your embed code for your figure below-->
 
-<iframe width="731" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR2Mc1QBEAWzfRAbSat-c7ougwA_XjoUOwF2AfVvBjc6L57Qh2o6WWDUHBVfWbH4J59B9WsJ5rFmwDX/pubchart?oid=649135535&amp;format=interactive"></iframe>
+<iframe width="1000" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR2Mc1QBEAWzfRAbSat-c7ougwA_XjoUOwF2AfVvBjc6L57Qh2o6WWDUHBVfWbH4J59B9WsJ5rFmwDX/pubchart?oid=649135535&amp;format=interactive"></iframe>
 
 #### Summary
 <!-- Write a 2-sentence summary of the trends below-->
